@@ -1,6 +1,6 @@
 # RecipEZ - Your Personal Recipe Assistant
 
-RecipEZ is a versatile iOS app designed to simplify your cooking experience. With RecipEZ, you can effortlessly discover recipes based on the ingredients you have, manage your favorite recipes, organize them for specific meals, and keep track of your recipe history. The app is developed using Swift in Xcode, providing a user-friendly interface for an enjoyable culinary journey.
+RecipEZ is a versatile iOS app designed to simplify your cooking experience. With RecipEZ, you can effortlessly discover recipes based on the ingredients you have, manage your favorite recipes, organize them for specific meals, and keep track of your recipe history. The app is developed using Swift in Xcode, providing a user-friendly interface for an enjoyable culinary journey. It was a project created for a class in the Spring of 2022.
 
 ## Features
 
